@@ -24,7 +24,7 @@ Numble is a number-guessing game inspired by Wordle. Players attempt to guess a 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/numble.git
+   git clone https://github.com/gabrielhj17/numble.git
    ```
 2. Open `index.html` in your web browser
 
